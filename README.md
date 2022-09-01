@@ -18,19 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madelyn&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
-<h1 align="center">Hi 👋, I'm Robben Ezackly Koresj</h1>
-<h3 align="center">Just a student who`s don`t have passion in programming</h3>
-
-- 🔭 I’m currently working on **8 Dimensi Kreatif**
-
-- 🌱 I’m currently learning **PHP,JS,Phython**
-
-- 💬 Ask me about **Android,Flutter**
-
-- 📫 How to reach me **robbenezacklykores@gmail.com**
-
-- ⚡ Fun fact **i think i am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/robbenezacklyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="robbenezacklyk" height="30" width="40" /></a>
