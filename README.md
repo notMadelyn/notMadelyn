@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robben Ezackly Koresj</h1>
 <h3 align="center">Just a student who`s don`t have passion in programming</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"?
+
 
 - 🔭 I’m currently working on **8 Dimensi Kreatif**
 
@@ -11,7 +13,6 @@
 
 - ⚡ Fun fact **i think i am funny**
 
-<p align="center"><img src="https://www.codewars.com/users/RobbenEzackly/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=RobbenEzackly&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobbenEzackly&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobbenEzackly&layout=compact&theme=monokai&langs_count=12"/><br />
