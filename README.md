@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **i think i am funny**
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RobbenEzackly&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=notMadelyn&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=notMadelyn&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notMadelyn&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
