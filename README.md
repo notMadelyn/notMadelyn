@@ -8,9 +8,11 @@
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=notMadelyn&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notMadelyn&layout=compact&theme=monokai&langs_count=12"/><br />
+<img src="https://github-readme-stats.vercel.app/api?username=notMadelyn&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notMadelyn&theme=chartreuse-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notMadelyn&layout=compact&theme=chartreuse-dark&langs_count=12"/><br />
 </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
