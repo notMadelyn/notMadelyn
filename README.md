@@ -5,6 +5,11 @@
 <h3 align="center">Just a student who`s don`t have passion in programming</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
 
+<img src="https://github-readme-stats.vercel.app/api?username=notMadelyn&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notMadelyn&theme=midnight-purple"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notMadelyn&layout=compact&theme=midnight-purple"/><br />
+</p>
+
 
 - 🔭 I’m currently working on **8 Dimensi Kreatif**
 
@@ -17,8 +22,6 @@
 - ⚡ Fun fact **i think i am funny**
 
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notMadelyn&theme=chartreuse-dark"/>
 
 
 <h3 align="left">Connect with me:</h3>
